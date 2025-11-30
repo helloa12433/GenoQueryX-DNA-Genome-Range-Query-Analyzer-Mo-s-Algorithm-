@@ -247,4 +247,4 @@ Modern Frontend Engineering
 
 Algorithmic Optimization
 
-It is fast, scalable, research-oriented, and visually stunning — a perfect addition to any professional portfolio.
+It is fast, scalable, research-oriented, and visually stunning.
